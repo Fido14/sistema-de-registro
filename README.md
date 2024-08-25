@@ -6,3 +6,4 @@ Para ejecutar el sistema, debes poner:
 
 ```apm install react```
 
+sistema de registro 2
